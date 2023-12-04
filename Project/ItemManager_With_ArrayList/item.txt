@@ -1,0 +1,4 @@
+V;25;Hoa phat;10;Glass
+P;20;Vietnam;13;18;1;0
+V;15;Japan;20;Wood
+P;10;Rang dong;50;30;0;0

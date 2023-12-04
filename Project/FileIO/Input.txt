@@ -1,0 +1,2 @@
+V;10;HoaPhat;10;Glass
+P;15;Window;15;7;1;0

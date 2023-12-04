@@ -1,0 +1,3 @@
+PRF192;Programming Fundamentals
+DBI202;Database systems
+PRN292;C# and .NET

@@ -1,0 +1,3 @@
+V;10;HoaPhat;10;Glass
+P;15;Window;15;7;1;1
+V;20;Vietnam;45;Wood

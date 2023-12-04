@@ -1,0 +1,8 @@
+bank robber;Steals money from a bank
+burglar;Breaks into a home to steal things
+forger;Makes an illegal copy of something
+hacker;Breaks into a computer system
+hijacker;Takes control of an airplane
+kidnapper;Holds someone for ransom money
+mugger;Attacks and steals money from someone
+murderer;Kills another person
